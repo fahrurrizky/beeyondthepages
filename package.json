@@ -1,0 +1,60 @@
+{
+  "name": "projectfrontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.19",
+    "@chakra-ui/react": "^2.7.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/open-sans": "^5.0.3",
+    "@fontsource/raleway": "^5.0.3",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.4.0",
+    "formik": "^2.4.2",
+    "framer-motion": "^10.12.17",
+    "framer-motion-carousel": "^2.0.3",
+    "mdb-react-ui-kit": "^6.1.0",
+    "my-ui-library": "^0.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-fast-marquee": "^1.6.0",
+    "react-icons": "^4.10.1",
+    "react-quill": "^2.0.0",
+    "react-redux": "^8.1.1",
+    "react-router-dom": "^6.12.1",
+    "react-scripts": "^5.0.1",
+    "react-sidebar": "^3.0.2",
+    "react-slick": "^0.29.0",
+    "styled-jsx": "^5.1.2",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
